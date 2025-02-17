@@ -1,4 +1,4 @@
-Welcome to ModEngine! ModEngine is a DLL injection library for Dark Souls III that adds new features
+ModEngine is a DLL injection library for Dark Souls III that adds new features
 for modders and the users of mods.
 
 Some current features include:
