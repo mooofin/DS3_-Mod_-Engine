@@ -1,0 +1,2 @@
+Dark Souls III and Sekiro
+In later games, all messages are in subdirectories of msg, like msg\engus. Like DS1 they are contained in bnds, with FMG names are in Japanese. In DS3 current patch, these are in item_dlc2.msgbnd.dcx and menu_dlc2.msgbnd.dcx, even if you don't have DLC installed. The FMG names themselves have _dlc1 and _dlc2 variants, for items/NPCs/etc. in the DLCs. The notable names are as follows:
